@@ -52,10 +52,7 @@
 
 <img src="https://raw.githubusercontent.com/ankita-suresh/ankita-suresh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-![Ankita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankita-suresh&theme=github-compact)
 
-<div align="center">
-
-### Made with ❤️ by ANKITA © 2026
+### Made by ANKITA © 2026
 
 </div>
