@@ -15,15 +15,19 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,cpp,java,c,js,bash" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,cpp,java,c,js,bash,html,css" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind" alt="Frontend" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" alt="Databases" />
 
 **Backend & Systems**
 
-<img src="https://skillicons.dev/icons?i=linux,fastapi,kafka,docker,git" alt="Backend and systems" />
+<img src="https://skillicons.dev/icons?i=linux,nodejs,express,fastapi,kafka,docker" alt="Backend and systems" />
 
 **Cloud**
 
@@ -34,6 +38,10 @@
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and ML" />
 
 PySpark · Hugging Face Transformers · vLLM · FAISS · LoRA
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
 
 **Also**
 
