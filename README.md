@@ -11,43 +11,36 @@
 
 ### ⚒️ Languages, Frameworks & Tools :
 
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,cpp,java,c,js,bash,html,css" alt="Languages" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind" alt="Frontend" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" alt="Databases" />
-
-**Backend & Systems**
-
-<img src="https://skillicons.dev/icons?i=linux,nodejs,express,fastapi,kafka,docker" alt="Backend and systems" />
-
-**Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud" />
-
-**AI / ML & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and ML" />
-
-PySpark · Hugging Face Transformers · vLLM · FAISS · LoRA
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
-
-**Also**
-
-SQL · REST APIs · SLURM · OpenSSL · Tree-sitter · HPC
-
-</div>
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,cpp,java,c,js,bash,html,css" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend & Systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,nodejs,express,fastapi,kafka,docker" alt="Backend and systems" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and ML" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" /></td>
+  </tr>
+</table>
 
 ---
 
