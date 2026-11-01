@@ -12,9 +12,33 @@
 ### ⚒️ Languages, Frameworks & Tools :
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,mysql,firebase,bootstrap,tailwind,git,github,vscode,postman,figma&perline=8" alt="Tech stack" />
-  </a>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,java,c,js,bash" alt="Languages" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Databases" />
+
+**Backend & Systems**
+
+<img src="https://skillicons.dev/icons?i=linux,fastapi,kafka,docker,git" alt="Backend and systems" />
+
+**Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud" />
+
+**AI / ML & Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and ML" />
+
+PySpark · Hugging Face Transformers · vLLM · FAISS · LoRA
+
+**Also**
+
+SQL · REST APIs · SLURM · OpenSSL · Tree-sitter · HPC
+
 </div>
 
 ---
